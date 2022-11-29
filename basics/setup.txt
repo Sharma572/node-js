@@ -12,3 +12,5 @@ Q. What is core module in node js?
   core module is inbuild in our programming language.
 Q. if package.json deleted than can we restore the module?
   No, because we dont know which package is installed.
+Q. What is buffer?
+  It is a temprory memory location of node js need some memory space to perform task.

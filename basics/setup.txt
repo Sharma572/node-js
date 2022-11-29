@@ -1,0 +1,14 @@
+1. intall node js from docs.
+2. check version -> node -v 
+3. start node in terminal from -> node
+4. now ready to code .
+
+
+Q. why undefiend comes?
+  Becoz statement is not returning anything.
+Q. both browser and node js console.log are same?
+  No, in browser our js engine provide console.log and in node module provide console.log this is not a part of js.
+Q. What is core module in node js?
+  core module is inbuild in our programming language.
+Q. if package.json deleted than can we restore the module?
+  No, because we dont know which package is installed.
